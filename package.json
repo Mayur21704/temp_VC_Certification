@@ -11,7 +11,24 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "body-parser": "^2.2.1",
+    "cors": "^2.8.5",
+    "did-jwt": "^8.0.18",
+    "did-jwt-vc": "^4.0.16",
+    "did-resolver": "^4.1.0",
     "dotenv": "^17.2.3",
-    "express": "^5.2.1"
-  }
+    "ethr-did-resolver": "^11.0.5",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.16.0",
+    "uuid": "^13.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayur21704/temp_VC_Certification.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mayur21704/temp_VC_Certification/issues"
+  },
+  "homepage": "https://github.com/Mayur21704/temp_VC_Certification#readme"
 }
